@@ -10,4 +10,4 @@ For documentation on the Viam Rover unboxing and setup visit [here](https://docs
 ## License 
 Copyright 2022-2023 Viam Inc.
 
-Apache 2.0 - See [LICENSE](https://github.com/viamrobotics/VR1-22-A001/blob/main/LICENSE) file
+Apache 2.0 - See [LICENSE](https://github.com/viamrobotics/VR1-22-A001/blob/master/LICENSE) file
